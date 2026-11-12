@@ -1,1 +1,2 @@
 print("Tilen")
+print("Šimenc")
